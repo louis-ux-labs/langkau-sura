@@ -1,0 +1,44 @@
+{
+  "cafe": {
+    "nama": "LANGKAU SURA",
+    "tagline": "Bold Taste. Clean Vibes.",
+    "wa": "62895404719001",
+    "pin": "511015"
+  },
+  "menu": [
+    {"id": 1, "nama": "Sura Signature Rice", "kategori": "Makanan", "harga": 35000, "deskripsi": "Nasi wangi + ayam crispy + sambal matah + telur 63°C", "gambar": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?q=80&w=500", "tersedia": true},
+    {"id": 2, "nama": "Burnout Burger", "kategori": "Makanan", "harga": 42000, "deskripsi": "Double beef, cheese melt, truffle mayo, brioche bun", "gambar": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=500", "tersedia": true},
+    {"id": 3, "nama": "Ramen Hustle", "kategori": "Makanan", "harga": 38000, "deskripsi": "Shoyu broth, chashu, ajitama, nori, negi", "gambar": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?q=80&w=500", "tersedia": true},
+    {"id": 4, "nama": "Wagyu Melt", "kategori": "Makanan", "harga": 89000, "deskripsi": "Sandwich wagyu slice, caramelized onion, cheddar", "gambar": "https://images.unsplash.com/photo-1521390188846-e2a3a97453a0?q=80&w=500", "tersedia": true},
+    {"id": 5, "nama": "Green Crunch Salad", "kategori": "Makanan", "harga": 29000, "deskripsi": "Mixed greens, quinoa, avocado, honey mustard", "gambar": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=500", "tersedia": true},
+    {"id": 6, "nama": "Spicy Chicken Wings", "kategori": "Makanan", "harga": 33000, "deskripsi": "8pcs, buffalo sauce, ranch dip", "gambar": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?q=80&w=500", "tersedia": true},
+    {"id": 7, "nama": "Pasta Carbonara Pro", "kategori": "Makanan", "harga": 36000, "deskripsi": "Fettuccine, bacon, parmesan, black pepper", "gambar": "https://images.unsplash.com/photo-1612874742237-6526221588e3?q=80&w=500", "tersedia": true},
+    {"id": 8, "nama": "Fish & Chips Prime", "kategori": "Makanan", "harga": 40000, "deskripsi": "Dori crispy, tartar sauce, potato wedges", "gambar": "https://images.unsplash.com/photo-1571091718767-18b5b1457add?q=80&w=500", "tersedia": false},
+    
+    {"id": 9, "nama": "Sura Cold Brew", "kategori": "Kopi", "harga": 22000, "deskripsi": "12h steep, smooth, low acidity, no sugar", "gambar": "https://images.unsplash.com/photo-1517701604599-bb29b565090c?q=80&w=500", "tersedia": true},
+    {"id": 10, "nama": "Espresso Shot", "kategori": "Kopi", "harga": 15000, "deskripsi": "Double shot, bold, clean finish", "gambar": "https://images.unsplash.com/photo-1511537190424-bbbab87ac5e3?q=80&w=500", "tersedia": true},
+    {"id": 11, "nama": "Flat White OG", "kategori": "Kopi", "harga": 25000, "deskripsi": "Microfoam silky, ratio 1:3", "gambar": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=500", "tersedia": true},
+    {"id": 12, "nama": "Caramel Macchiato", "kategori": "Kopi", "harga": 28000, "deskripsi": "Espresso, steamed milk, caramel drizzle", "gambar": "https://images.unsplash.com/photo-1578328819058-b69f3a3b0f6b?q=80&w=500", "tersedia": true},
+    {"id": 13, "nama": "V60 Single Origin", "kategori": "Kopi", "harga": 30000, "deskripsi": "Aceh Gayo, notes: citrus, chocolate", "gambar": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=500", "tersedia": true},
+    {"id": 14, "nama": "Iced Latte Rush", "kategori": "Kopi", "harga": 24000, "deskripsi": "Espresso + fresh milk + ice cubes", "gambar": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?q=80&w=500", "tersedia": true},
+    
+    {"id": 15, "nama": "Yuzu Citrus Soda", "kategori": "Minuman", "harga": 18000, "deskripsi": "Yuzu, soda, mint, ice crash", "gambar": "https://images.unsplash.com/photo-1544145945-f90425340c7e?q=80&w=500", "tersedia": true},
+    {"id": 16, "nama": "Matcha Zen Frappe", "kategori": "Minuman", "harga": 26000, "deskripsi": "Premium matcha, milk, ice blend", "gambar": "https://images.unsplash.com/photo-1572490122742-d3fb839d7ed0?q=80&w=500", "tersedia": true},
+    {"id": 17, "nama": "Tropical Paradise", "kategori": "Minuman", "harga": 20000, "deskripsi": "Mango, pineapple, passion fruit", "gambar": "https://images.unsplash.com/photo-1525385133512-2f3bdd039054?q=80&w=500", "tersedia": true},
+    {"id": 18, "nama": "Lemon Mint Cool", "kategori": "Minuman", "harga": 16000, "deskripsi": "Fresh lemon, mint leaves, soda", "gambar": "https://images.unsplash.com/photo-1513558161293-cdaf43671c10?q=80&w=500", "tersedia": true},
+    {"id": 19, "nama": "Berry Blast Smoothie", "kategori": "Minuman", "harga": 27000, "deskripsi": "Strawberry, blueberry, raspberry, yogurt", "gambar": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?q=80&w=500", "tersedia": true},
+    {"id": 20, "nama": "Choco Lava", "kategori": "Minuman", "harga": 24000, "deskripsi": "Belgian choco, marshmallow, whipped cream", "gambar": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?q=80&w=500", "tersedia": true},
+    {"id": 21, "nama": "Mineral Water", "kategori": "Minuman", "harga": 5000, "deskripsi": "Aqua 330ml dingin", "gambar": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?q=80&w=500", "tersedia": true},
+    
+    {"id": 22, "nama": "Cheese Stick Melt", "kategori": "Snacks", "harga": 17000, "deskripsi": "Mozzarella stick, 6pcs, marinara dip", "gambar": "https://images.unsplash.com/photo-1544148133-b8a1a3fb8e08?q=80&w=500", "tersedia": true},
+    {"id": 23, "nama": "Truffle Fries", "kategori": "Snacks", "harga": 23000, "deskripsi": "Potato fries, truffle oil, parmesan", "gambar": "https://images.unsplash.com/photo-1585109649139-366815a0d713?q=80&w=500", "tersedia": true},
+    {"id": 24, "nama": "Nachos Loaded", "kategori": "Snacks", "harga": 29000, "deskripsi": "Tortilla chips, cheese sauce, jalapeno", "gambar": "https://images.unsplash.com/photo-1513456852971-30c0b8199d4d?q=80&w=500", "tersedia": true},
+    {"id": 25, "nama": "Garlic Bread Pro", "kategori": "Snacks", "harga": 15000, "deskripsi": "Baguette, garlic butter, parsley", "gambar": "https://images.unsplash.com/photo-1605807641543-6b2cfa7f28c4?q=80&w=500", "tersedia": true},
+    {"id": 26, "nama": "Chicken Popcorn", "kategori": "Snacks", "harga": 21000, "deskripsi": "Bite size, crispy, spicy mayo", "gambar": "https://images.unsplash.com/photo-1562967914-608e0a3bf3e8?q=80&w=500", "tersedia": true},
+    
+    {"id": 27, "nama": "Burnt Cheesecake", "kategori": "Dessert", "harga": 32000, "deskripsi": "Basque style, creamy center, caramelized top", "gambar": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?q=80&w=500", "tersedia": true},
+    {"id": 28, "nama": "Choco Lava Cake", "kategori": "Dessert", "harga": 34000, "deskripsi": "Warm cake, molten choco, vanilla ice cream", "gambar": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?q=80&w=500", "tersedia": true},
+    {"id": 29, "nama": "Panna Cotta Berry", "kategori": "Dessert", "harga": 28000, "deskripsi": "Silky panna cotta, mixed berry compote", "gambar": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?q=80&w=500", "tersedia": true},
+    {"id": 30, "nama": "Tiramisu Cup", "kategori": "Dessert", "harga": 30000, "deskripsi": "Coffee, mascarpone, cocoa dust", "gambar": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?q=80&w=500", "tersedia": true}
+  ]
+}
